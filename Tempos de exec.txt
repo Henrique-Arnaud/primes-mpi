@@ -1,0 +1,4 @@
+Prime paralelo: 0.001889 segundos
+Prime sequencial: 0.0050 segundos
+
+speed-up: 0.0050/0.001889 = 2,6469
